@@ -1,3 +1,4 @@
-class Dog
-  # code goes here
+require './cat.rb'
+class Dog < Cat
+  
 end
